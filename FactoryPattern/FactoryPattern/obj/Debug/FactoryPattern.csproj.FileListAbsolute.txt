@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Form1.resources
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\nefre\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

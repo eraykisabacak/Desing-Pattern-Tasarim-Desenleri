@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.Form1.resources
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.Properties.Resources.resources
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.exe
+C:\Users\nefre\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.pdb

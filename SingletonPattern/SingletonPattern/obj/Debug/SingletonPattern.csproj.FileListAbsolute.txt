@@ -1,0 +1,20 @@
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\nefre\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\nefre\source\repos\Tasarım Desemler Ödev1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
