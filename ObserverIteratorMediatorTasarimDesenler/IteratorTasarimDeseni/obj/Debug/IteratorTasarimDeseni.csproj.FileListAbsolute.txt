@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\obj\Debug\IteratorTasarimDeseni.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\obj\Debug\IteratorTasarimDeseni.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\bin\Debug\IteratorTasarimDeseni.exe.config
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\bin\Debug\IteratorTasarimDeseni.exe
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\bin\Debug\IteratorTasarimDeseni.pdb
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\obj\Debug\IteratorTasarimDeseni.exe
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\IteratorTasarimDeseni\obj\Debug\IteratorTasarimDeseni.pdb

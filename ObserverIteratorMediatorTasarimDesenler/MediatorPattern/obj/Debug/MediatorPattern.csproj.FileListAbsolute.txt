@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\bin\Debug\MediatorPattern.pdb
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\obj\Debug\MediatorPattern.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\obj\Debug\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\obj\Debug\MediatorPattern.exe
+C:\Users\nefre\source\repos\ObserverIteratorMediatorTasarimDesenler\MediatorPattern\obj\Debug\MediatorPattern.pdb

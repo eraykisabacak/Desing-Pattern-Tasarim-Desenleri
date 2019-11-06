@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\Users\nefre\source\repos\Hafta2Odev\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojAssemblyReference.cache

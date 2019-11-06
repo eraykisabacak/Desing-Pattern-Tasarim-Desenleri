@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\bin\Debug\Hafta2Odev.exe.config
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\bin\Debug\Hafta2Odev.exe
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\bin\Debug\Hafta2Odev.pdb
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\obj\Debug\Hafta2Odev.exe
+C:\Users\nefre\source\repos\Hafta2Odev\Hafta2Odev\obj\Debug\Hafta2Odev.pdb
