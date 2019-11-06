@@ -5,3 +5,13 @@
 ## 2- Factory Pattern
 
 ## 3- Prototype Pattern
+
+## 4- Abstract Factory Pattern
+
+## 5- Builder Pattern
+
+## 6- Iterator Pattern
+
+## 7- Observer Pattern
+
+## 8- Mediator Pattern
