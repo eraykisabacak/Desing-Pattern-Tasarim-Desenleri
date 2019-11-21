@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\bin\Debug\Command.exe.config
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\bin\Debug\Command.exe
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\bin\Debug\Command.pdb
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\obj\Debug\Command.exe
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\Command\obj\Debug\Command.pdb

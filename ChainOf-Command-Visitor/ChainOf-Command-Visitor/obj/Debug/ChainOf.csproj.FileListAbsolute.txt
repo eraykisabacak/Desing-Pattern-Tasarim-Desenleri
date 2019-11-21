@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\bin\Debug\ChainOf-Command-Visitor.exe.config
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\bin\Debug\ChainOf-Command-Visitor.exe
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\bin\Debug\ChainOf-Command-Visitor.pdb
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\obj\Debug\ChainOf.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\obj\Debug\ChainOf.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\obj\Debug\ChainOf-Command-Visitor.exe
+C:\Users\nefre\source\repos\ChainOf-Command-Visitor\ChainOf-Command-Visitor\obj\Debug\ChainOf-Command-Visitor.pdb
