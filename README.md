@@ -15,3 +15,9 @@
 ## 7- Observer Pattern
 
 ## 8- Mediator Pattern
+
+## 9- Chain of Responsibility Pattern
+
+## 10- Command Pattern
+
+## 11- Visitor Pattern
