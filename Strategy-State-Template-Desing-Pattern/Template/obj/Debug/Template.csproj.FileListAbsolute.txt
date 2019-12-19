@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\bin\Debug\Template.exe.config
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\bin\Debug\Template.exe
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\bin\Debug\Template.pdb
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\obj\Debug\Template.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\obj\Debug\Template.exe
+C:\Users\nefre\source\repos\Strategy-State-Template-Desing-Pattern\Template\obj\Debug\Template.pdb
