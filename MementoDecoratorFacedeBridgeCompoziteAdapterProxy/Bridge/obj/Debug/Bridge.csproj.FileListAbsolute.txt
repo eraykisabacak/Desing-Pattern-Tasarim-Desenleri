@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\bin\Debug\Bridge.exe
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\bin\Debug\Bridge.pdb
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\obj\Debug\Bridge.exe
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\Bridge\obj\Debug\Bridge.pdb

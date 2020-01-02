@@ -1,0 +1,6 @@
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\FacadeDesing\bin\Debug\FacadeDesing.exe.config
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\FacadeDesing\bin\Debug\FacadeDesing.exe
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\FacadeDesing\bin\Debug\FacadeDesing.pdb
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\FacadeDesing\obj\Debug\FacadeDesing.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\FacadeDesing\obj\Debug\FacadeDesing.exe
+C:\Users\nefre\source\repos\MementoDecoratorFacedeBridgeCompoziteAdapterProxy\FacadeDesing\obj\Debug\FacadeDesing.pdb
